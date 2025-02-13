@@ -1,1 +1,8 @@
-print("Bye World")
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+    print("Hi!",a,"Your Average in this exam is: ",h,"YOU GOT A")
+elif(80 <= h <90):
+    print("Hi!",a,"Your Average in this exam is: ",h,"YOU GOT B")
+elif(70 <= h < 80):
+    print("Hi!",a,"Your Average in this exam is: ",h,"YOU GOT C")
+elif(h<70):
+    print("Hi!",a,"Your Average in this exam is: ",h,"YOU ARE FAILED")
