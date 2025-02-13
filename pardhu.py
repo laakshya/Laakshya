@@ -1,1 +1,2 @@
-print("pardhu")
+print("pardhu"),
+print("bye world")
